@@ -1,5 +1,5 @@
 /* 
-LinEnum (Linux Enumeration) Wget & CHMOD & Run Shellcode Language C & ASM - Linux/x86_64
+Linux Enumeration wget & chmod & run shellcode language C & ASM - Linux/x86_64
 
 author : Kağan Çapar
 contact: kagancapar@gmail.com
